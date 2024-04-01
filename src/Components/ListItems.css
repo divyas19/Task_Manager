@@ -1,0 +1,49 @@
+.table-container {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(234, 241, 241);
+}
+
+.items-container {
+  margin-top: 3rem;
+  width: 80%;
+}
+
+th {
+  color: rgb(47, 130, 218);
+}
+
+tbody {
+  overflow-y: scroll;
+}
+
+label {
+  color: green;
+}
+
+.del-btn {
+  border: none;
+  color: rgb(231, 40, 88);
+}
+
+.del-btn:hover {
+  background-color: hsla(0, 95%, 56%, 0.7);
+  color: white;
+}
+
+.no-tasks {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  margin-top: 3rem;
+  color: grey;
+}
+
+input[type="checkbox"] {
+  height: 20px;
+  width: 20px;
+  accent-color: rgb(163, 207, 163);
+}
