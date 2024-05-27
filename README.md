@@ -1,14 +1,8 @@
-Project - TO-DO Application
-
-Link - https://to-do-application-project-123.netlify.app/
+Developed a Task Manager application using ReactJS, JavaScript, CSS, and Bootstrap. The app enables users to add, delete, and mark tasks as done, with an option to clear all tasks at once. This project showcases proficiency in creating responsive, user-friendly web applications with efficient task management capabilities.
 
 Technologies Used: ReactJS, JavaScript, CSS, Bootstrap, HTML
 
-Steps to set up and run the project in VS Code :
-*Install VS Code
-*Open VS Code and install all required extensions
-*Create a folder and open it in VS Code and go to the terminal
-*Clone the Git Repository - git clone https://github.com/divyas19/ToDoApplication
-*Navigate to the Project Directory - cd ToDoApplication
-*Install Dependencies : npm install
-*Run the Project: npm start
+Link - [https://to-do-application-project-123.netlify.app/](https://task-manager-application-project.netlify.app/)
+
+
+
