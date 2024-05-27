@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from "react";
 import "./App.css";
-import Form from "../src/Components/Form.js";
-import ListItems from "../src/Components/ListItems";
-import mainLogo from "./Images/mainLogo.png"
+import Form from "./components/Form";
+import ListItems from "./components/ListItems";
+import mainLogo from "./images/main-logo.png"
 
 function App() {
   //Array to hold all added tasks 
